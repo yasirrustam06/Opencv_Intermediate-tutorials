@@ -1,7 +1,7 @@
 # Opencv_Intermediate-tutorials  
 
 
-# `Image HistoGrams OUTPUT
+# `Image HistoGrams OUTPUT`
 ![Image_Histogram](https://user-images.githubusercontent.com/98689629/190925254-37573c20-a978-47a5-b208-d06f80837f21.png)
 
 
