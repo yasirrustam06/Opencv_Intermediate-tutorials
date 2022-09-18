@@ -24,7 +24,8 @@
 ![thresholding](https://user-images.githubusercontent.com/98689629/190925305-6a61e43e-91fb-40fe-9da6-4c0b1ac8015d.png)
 
 
-
+# `FT on iMage  Results`
+![fft_image](https://user-images.githubusercontent.com/98689629/190927321-c72129a8-cc4e-451b-8604-be30161fd88e.png)
 
 
 
