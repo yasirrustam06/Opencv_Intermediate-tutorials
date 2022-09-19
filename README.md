@@ -32,6 +32,9 @@
 ![ContouredImage](https://user-images.githubusercontent.com/98689629/190927806-3745e89c-326c-429c-87ff-dc4853383671.png)
 
 
+# `Hough Line Transformation OUTPUT`
+![hough](https://user-images.githubusercontent.com/98689629/191079044-51bcb614-a608-477b-b386-4afd10bd43a4.png)
+
 
 
 
